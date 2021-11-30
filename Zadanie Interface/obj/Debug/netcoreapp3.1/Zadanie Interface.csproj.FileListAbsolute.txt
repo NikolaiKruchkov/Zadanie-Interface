@@ -1,0 +1,14 @@
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание интерфейсы\Zadanie Interface\Zadanie Interface\obj\Debug\netcoreapp3.1\Zadanie Interface.csproj.AssemblyReference.cache
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание интерфейсы\Zadanie Interface\Zadanie Interface\obj\Debug\netcoreapp3.1\Zadanie Interface.GeneratedMSBuildEditorConfig.editorconfig
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание интерфейсы\Zadanie Interface\Zadanie Interface\obj\Debug\netcoreapp3.1\Zadanie Interface.AssemblyInfoInputs.cache
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание интерфейсы\Zadanie Interface\Zadanie Interface\obj\Debug\netcoreapp3.1\Zadanie Interface.AssemblyInfo.cs
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание интерфейсы\Zadanie Interface\Zadanie Interface\obj\Debug\netcoreapp3.1\Zadanie Interface.csproj.CoreCompileInputs.cache
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание интерфейсы\Zadanie Interface\Zadanie Interface\bin\Debug\netcoreapp3.1\Zadanie Interface.exe
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание интерфейсы\Zadanie Interface\Zadanie Interface\bin\Debug\netcoreapp3.1\Zadanie Interface.deps.json
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание интерфейсы\Zadanie Interface\Zadanie Interface\bin\Debug\netcoreapp3.1\Zadanie Interface.runtimeconfig.json
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание интерфейсы\Zadanie Interface\Zadanie Interface\bin\Debug\netcoreapp3.1\Zadanie Interface.runtimeconfig.dev.json
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание интерфейсы\Zadanie Interface\Zadanie Interface\bin\Debug\netcoreapp3.1\Zadanie Interface.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание интерфейсы\Zadanie Interface\Zadanie Interface\bin\Debug\netcoreapp3.1\Zadanie Interface.pdb
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание интерфейсы\Zadanie Interface\Zadanie Interface\obj\Debug\netcoreapp3.1\Zadanie Interface.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание интерфейсы\Zadanie Interface\Zadanie Interface\obj\Debug\netcoreapp3.1\Zadanie Interface.pdb
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание интерфейсы\Zadanie Interface\Zadanie Interface\obj\Debug\netcoreapp3.1\Zadanie Interface.genruntimeconfig.cache
